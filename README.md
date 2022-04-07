@@ -5,8 +5,8 @@ This application detects multiple objects in a scene. The most commonly used mod
 -  <em> A fast C++ implementation of TensorFlow Lite on a bare Raspberry Pi 4 64-bit OS.</em>  
 
 -  <em> 24 FPS! Without any hardware accelerator, just you and your Pi. </em> 
+<br>  
 
-<br>
 ---------------------------------------------------------------------------------------------------------
 
 **Prerequisites**  
