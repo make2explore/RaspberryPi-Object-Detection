@@ -6,6 +6,7 @@ This application detects multiple objects in a scene. The most commonly used mod
 
 -  <em> 24 FPS! Without any hardware accelerator, just you and your Pi. </em> 
 
+<br>
 ---------------------------------------------------------------------------------------------------------
 
 **Prerequisites**  
