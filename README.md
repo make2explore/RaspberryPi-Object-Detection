@@ -6,6 +6,10 @@
 
 <br>  
 
+**Prerequisites**  
+- Installation of OpenCV for source
+- Tuneup your Raspberry Pi for Vision based projects - ▶️  [https://youtu.be/00c2GTpRaU8]  
+
 **Object Detection main code Citations** -  
   
 == > Referred Codes from Q-Engineering  
