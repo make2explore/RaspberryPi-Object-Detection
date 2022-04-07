@@ -7,7 +7,6 @@ This application detects multiple objects in a scene. The most commonly used mod
 -  <em> 24 FPS! Without any hardware accelerator, just you and your Pi. </em> 
 
 ---------------------------------------------------------------------------------------------------------
-<br>  
 
 **Prerequisites**  
 - Installation of OpenCV from source                    🔗  [https://bit.ly/3xbB3Jk]  
@@ -24,7 +23,6 @@ OR
 <br>
 
 ----------------------------------------------------------------------------------------------------------
-
 **Object Detection main code Citations** -  
 
 Source code -->   
