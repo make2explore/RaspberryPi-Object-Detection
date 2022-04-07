@@ -6,6 +6,7 @@ This application detects multiple objects in a scene. The most commonly used mod
 
 -  <em> 24 FPS! Without any hardware accelerator, just you and your Pi. </em> 
 
+---------------------------------------------------------------------------------------------------------
 <br>  
 
 **Prerequisites**  
@@ -21,6 +22,8 @@ OR
 ![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find this example on Q-Engineering's [SD-image](https://github.com/Qengineering/RPi-image)
 
 <br>
+
+----------------------------------------------------------------------------------------------------------
 
 **Object Detection main code Citations** -  
 
