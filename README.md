@@ -1,4 +1,4 @@
-**[Project] Real Time Object Detection on Raspberry Pi using TensorFlow Lite SSD**
+## [Project] Real Time Object Detection on Raspberry Pi using TensorFlow Lite SSD
 
 -  <em> A fast C++ implementation of TensorFlow Lite on a bare Raspberry Pi 4 64-bit OS.</em>  
 
