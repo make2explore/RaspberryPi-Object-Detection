@@ -23,9 +23,7 @@ OR
 <br>
 
 **Object Detection main code Citations** -  
-  
-== > Referred Codes from Q-Engineering  
-  
+
 Source code -->   
 
 📎 Created by [Q-engineering](https://qengineering.eu)  
