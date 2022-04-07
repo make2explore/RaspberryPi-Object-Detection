@@ -19,7 +19,7 @@ OR
 - You can just download SD image of a Raspberry Pi 4 with pre-installed frameworks and deep-learning
 examples. This image is created by Q-engineering. Please, find a complete working Raspberry Pi 4 dedicated to deep learning on following GitHub page link. Download the zip file from our GDrive site, unzip and flash the image on a 16 GB SD-card, and enjoy!  
 
-![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find this example on Q-Engineerings [SD-image](https://github.com/Qengineering/RPi-image)
+![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find this example on Q-Engineering's [SD-image](https://github.com/Qengineering/RPi-image)
 
 <br>
 
@@ -29,10 +29,10 @@ examples. This image is created by Q-engineering. Please, find a complete workin
   
 Source code -->   
 
-📎 Created by Q-engineering  
+📎 Created by [Q-engineering] (https://qengineering.eu)  
     
 📎 Referred by make2explore 2022/03/24  
 
 <br>  
   
-Source Code Credits ❤️ -  Thank you - [Q-Engineering]  
+Source Code Credits ❤️ -  Thank you - [Q-Engineering] (https://qengineering.eu)  
