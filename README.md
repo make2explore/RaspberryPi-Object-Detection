@@ -14,6 +14,13 @@ This application detects multiple objects in a scene. The most commonly used mod
 > $ sudo apt-get install codeblocks  
 - Tuneup your Raspberry Pi for Vision based projects - ▶️  [https://youtu.be/00c2GTpRaU8]  
 
+OR  
+
+- You can just download SD image of a Raspberry Pi 4 with pre-installed frameworks and deep-learning
+examples. This image is created by Q-engineering. Please, find a complete working Raspberry Pi 4 dedicated to deep learning on following GitHub page link. Download the zip file from our GDrive site, unzip and flash the image on a 16 GB SD-card, and enjoy!  
+
+![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find this example on Q-Engineerings [SD-image](https://github.com/Qengineering/RPi-image)
+
 <br>
 
 **Object Detection main code Citations** -  
